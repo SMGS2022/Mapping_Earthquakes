@@ -24,5 +24,9 @@ As seen below, the map is on "satellite" view, and uses the "earthquakes", "tect
 
 The image above is in "street" view with selections of only "major earthquakes" and "tectonic plates"
 
+The image below shows a pop-up example displaying the magnitude of the earthquake and the location
+
+![mag.png](image/mag.png)
+
 ## Summary
 
