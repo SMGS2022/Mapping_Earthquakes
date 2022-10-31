@@ -26,7 +26,8 @@ The image above is in "street" view with selections of only "major earthquakes" 
 
 The image below shows a pop-up example displaying the magnitude of the earthquake and the location
 
-![mag.png](image/mag.png)
+![mag.png](images/mag.png)
 
 ## Summary
 
+HTML shows a clear map of earthquakes, user-friendly toggles, and informative pop-ups.
