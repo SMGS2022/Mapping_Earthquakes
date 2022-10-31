@@ -4,7 +4,7 @@ Utilize collected data via GeoJSON and an API call to create an interactive eart
 
 ## Website
 
-
+[Quake!](https://smgs2022.github.io/Mapping_Earthquakes/)
 
 ## Overview
 
